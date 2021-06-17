@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url:  https://dawson-zero.github.io
+url:  https://github.com/dawson-zero/dawson-zero.github.io
 root: /public/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -107,7 +107,7 @@ search:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: 
-  type: git
-  repository: https://github.com/dawson-zero/dawson-zero.github.io.git
-  branch: master
+deploy:  
+  type:  git
+  repository:  https://github.com/dawson-zero/dawson-zero.github.io
+  branch:  master
