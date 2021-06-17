@@ -109,5 +109,5 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type:  git
-  repository:  https://github.com/Dawson-Zero/Dawson-Zero.github.io.git
+  repository:  https://github.com/Dawson-Zero/Dawson-Zero.github.io
   branch:  master
